@@ -1,0 +1,22 @@
+.badge {
+  background: tomato;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
+
+.alarm {
+  display: flex;
+  background: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  position: absolute;
+  left: 25px;
+  bottom: 25px;
+}
